@@ -13,9 +13,9 @@ The project is built on an imported CAD file of Anschutz theater at the Kent Den
 
 Here are the Components of the Project.
 
-I have four working lights. One spotlight, one D40 and two intelligent lights.
+I have four working lights each of which is a GameObject. One spotlight, one D40 and two intelligent lights.
 
-I have a tree to test and see lighting on.
+I have a tree which is also a GameObject to test and see the lighting on.
 
 I have 5 camera views to utilize the project in game mode.
 
@@ -83,10 +83,15 @@ Now that we are logged in to Unity we can open projects in unity.
 
 This should open the project in unity so it's ready to use.
 
-## Basic Unity tutorial
+## Explanation of Elements in my project
 All objects in Unity (both the lights and the tree) are GameObjects. You can add various types of GameObjects
 to your project. You can alter their color, size, function, material and so forth. You can attach components to
-GameObjects. All of my lights have C# script components attached to them. I attach these componenets and create the
+GameObjects. To create a new GameObject: go to the hierarchy (left panel) > create > choose what you'd like to create.
+or go to the top menu bar > GameObject > select what you'd like to create.
+
+All of my lights have C# script components attached to them. I attach these componenets and create the
 GameObjects in scene mode. Game mode is how you can test your project. In game mode when you push play you can run your
-scripts.
+scripts. To create a new script: go to assets (bottom panel) > left click > create > select C# script. You can now
+create any script. Once you have created a script you can drag it onto the GameObject you want to attach it to or click
+on the GameObject > scroll down to click on Component > select script > click the script you'd like to add.
 
