@@ -12,21 +12,22 @@ The project is built on an imported CAD file of Anschutz theater at the Kent Den
 
 Here are the Components of the Project.
 1. I have four working lights.
-..*One spotlight, one D40 and two intelligent lights
+...One spotlight, one D40 and two intelligent lights.
 2. I have a tree to test and see lighting on.
 3. I have 5 camera views to utilize the project in game mode.
 3. I have scripts for each light.
 You can turn on and off the spotlight with the space bar.
+
 You can turn on and off the D40 special with the right shift key.
-..*You can turn off the movers with the tab key.
-..*You can change the color of the movers.
-    The B key turns the lights blue..
-    The C key turns the lights cyan..
-    The M key turns the lights magenta..
-    The Y key turns the lights yellow..
-    The W key turns the lights white..
-    The G key turns the lights green..
-    The R key turns the lights red..
+You can turn off the movers with the tab key.
+ou can change the color of the movers.
+    The B key turns the lights blue
+    The C key turns the lights cyan
+    The M key turns the lights magenta
+    The Y key turns the lights yellow
+    The W key turns the lights white
+    The G key turns the lights green
+    The R key turns the lights red
 
 
 ## What is Unity?
