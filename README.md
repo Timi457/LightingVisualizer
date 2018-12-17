@@ -1,5 +1,6 @@
 # LightingVisualizer
-## Created by Timea Ryan                                                    December 2018
+## Created by Timea Ryan
+### December 2018
 
 ## Overview of the Project
 This is a unity project that visualizes and simulates lighting for the Kent Denver High School Anschutz Theater.
@@ -82,4 +83,10 @@ Now that we are logged in to Unity we can open projects in unity.
 
 This should open the project in unity so it's ready to use.
 
+## Basic Unity tutorial
+All objects in Unity (both the lights and the tree) are GameObjects. You can add various types of GameObjects
+to your project. You can alter their color, size, function, material and so forth. You can attach components to
+GameObjects. All of my lights have C# script components attached to them. I attach these componenets and create the
+GameObjects in scene mode. Game mode is how you can test your project. In game mode when you push play you can run your
+scripts.
 
