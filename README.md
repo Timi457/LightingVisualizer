@@ -12,6 +12,7 @@ The project is built on an imported CAD file of Anschutz theater at the Kent Den
 
 Here are the Components of the Project.
 1. I have four working lights.
+
 ...One spotlight, one D40 and two intelligent lights.
 2. I have a tree to test and see lighting on.
 3. I have 5 camera views to utilize the project in game mode.
