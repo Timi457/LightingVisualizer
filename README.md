@@ -8,9 +8,11 @@ It was created for the 20% project of the AT Computer Science class under the in
 For more information about the project head to https://goo.gl/H9fZ4i to find my formal write up on the project.
 
 ## What does the Project include?
-The project is built on an imported CAD file of Anschutz theater at the Kent Denver School in Colorado.
-I have four working lights.
-...One spotlight, one D40 and two intelligent lights..
+The project is built on an imported CAD file of Anschutz theater at the Kent Denver School in Colorado.\
+
+Here are the Components of the Project.
+1. I have four working lights.
+..*One spotlight, one D40 and two intelligent lights
 I have a tree to test and see lighting on.
 I have scripts for each light.
 ..*You can turn on and off the spotlight with the space bar.
