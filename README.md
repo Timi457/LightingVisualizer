@@ -88,7 +88,6 @@ Now that we are logged in to Unity we can open projects in unity.
 9. From your applications select and click on Unity.
 
 This should open the project in unity so it's ready to use.
-![alt text](file:///Users/liamdaniel/Desktop/Screen%20Shot%202018-12-19%20at%2009.21.54.png)
 
 ## Explanation of Elements in my project
 All objects in Unity (both the lights and the tree) are GameObjects. You can add various types of GameObjects
