@@ -47,16 +47,20 @@ Unity allows you to control a variety of facotors resulting in a realistic simul
 ## How to Install Unity
 1. Navigate with a browser to https://unity3d.com.
 2. Click on Get Unity.
+![alt text](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/unity-install-macos-1.jpeg?itok=4IHz4yv8)
 3. Click on Try Personal. (this is the free version)
 4. Check the box to agree to the Terms of Service.
 5. Click Download Installer.
+![alt text](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/unity-install-macos-2.jpeg?itok=nn0FuDbj)
 6. Double click the UnityDownloadAssistant dmg file you just downloaded.
 7. Double click the Unity DownloadAssistant** icon.
 8. Click Continue.
 9. Click Continue again.
+![alt text](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/unity-install-macos-3.jpeg?itok=dFbQ7ec6)
 10. Select the Components you wish to Install. This can be left as default.
 11. Click Continue.
 12. Select the installation Destination.
+![alt text](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/unity-install-macos-4.jpeg?itok=MGOU5Pj9)
 13. Click Continue.
 14. Once the installation is complete click Close.
 
@@ -65,9 +69,11 @@ Now Unity will launch automatically and we can learn how to "get started with Un
 1. Log in with a Unity-specific account, Facebook, or Google.
 2. Select Unity Personal.
 3. Click Next.
+![alt text](https://www.imore.com/how-install-unity-engine-macos-vr-application-creation)
 4. Confirm that you don't use Unity in a professional capacity.
 5. Click Next.
 6. Click Start Using Unity.
+![alt text](https://www.imore.com/sites/imore.com/files/styles/xlarge/public/field/image/2017/12/unity-install-macos-6.jpeg?itok=XPGEyaik)
 
 Now that we are logged in to Unity we can open projects in unity.
 ## How to open my project in Unity
